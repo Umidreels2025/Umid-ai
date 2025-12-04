@@ -1,0 +1,42 @@
+[
+  {
+    "trigger": "html",
+    "response": "HTML – veb sahifalarni yaratish uchun ishlatiladigan markup tili. Siz HTML elementlari va strukturasi haqida savol berishingiz mumkin.",
+    "suggestions": [
+      "CSS orqali sahifani chiroyli qilishni ko‘rishni xohlaysizmi?",
+      "JavaScript bilan HTML-ni birlashtirishni bilishni xohlaysizmi?"
+    ]
+  },
+  {
+    "trigger": "css",
+    "response": "CSS – veb sahifalarga stil qo‘shish uchun ishlatiladi. Ranglar, fontlar va layoutlarni boshqarishingiz mumkin.",
+    "suggestions": [
+      "Ranglar va fontlar haqida ko‘proq bilishni xohlaysizmi?",
+      "Layout va Grid, Flexbox haqida tushuntirish kerakmi?"
+    ]
+  },
+  {
+    "trigger": "javascript",
+    "response": "JavaScript – veb sahifalarni interaktiv qilish uchun ishlatiladigan dasturlash tili. Siz funksiyalar, eventlar va DOM manipulyatsiya haqida savol berishingiz mumkin.",
+    "suggestions": [
+      "Funksiyalar va looplar haqida tushuntirish kerakmi?",
+      "DOM elementlarini boshqarishni o‘rganishni xohlaysizmi?"
+    ]
+  },
+  {
+    "trigger": "python",
+    "response": "Python – oson o‘rganiladigan va kuchli dasturlash tili. Siz Python funksiyalari, looplar va OOP haqida savol berishingiz mumkin.",
+    "suggestions": [
+      "Python misollarini ko‘rishni xohlaysizmi?",
+      "OOP va klasslar haqida tushuntirish kerakmi?"
+    ]
+  },
+  {
+    "trigger": "o'zbek tili",
+    "response": "O‘zbek tili – grammatikasi va lug‘atiga oid savollarga javob bera olaman.",
+    "suggestions": [
+      "Imlo qoidalari haqida ko‘proq bilishni xohlaysizmi?",
+      "So‘z birikmalari va ifodalar haqida tushuntirish kerakmi?"
+    ]
+  }
+]
